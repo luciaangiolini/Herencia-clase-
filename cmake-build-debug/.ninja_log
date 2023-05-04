@@ -1,0 +1,21 @@
+# ninja log v5
+10	891	7046898761729047	CMakeFiles/Herencia.dir/persona.cpp.obj	e633ea03b649d1ca
+48	909	7046898762110591	CMakeFiles/Herencia.dir/docente.cpp.obj	8bd915163a1beecc
+6	899	7046902236185141	CMakeFiles/Herencia.dir/ej_alumnos.cpp.obj	a78fa14eab7eb919
+22	920	7046898762205954	CMakeFiles/Herencia.dir/alumnos.cpp.obj	7ab2c1993d8337e0
+753	934	7044374604100072	Herencia.exe	e28e0f6853afd363
+16	869	7046898761444069	CMakeFiles/Herencia.dir/materia.cpp.obj	d0af83f9baa97bc7
+1	345	7046903958147406	build.ninja	c793132ef7ef9053
+1	241	7046903958147406	build.ninja	c793132ef7ef9053
+4	415	7046905830399759	CMakeFiles/Herencia.dir/ej_alumnos.cpp.obj	a78fa14eab7eb919
+416	537	7046905831566049	Herencia.exe	bb50fb6651627e05
+5	510	7046907831134482	CMakeFiles/Herencia.dir/ej_alumnos.cpp.obj	a78fa14eab7eb919
+511	689	7046907832837674	Herencia.exe	bb50fb6651627e05
+7	443	7046916580718936	CMakeFiles/Herencia.dir/ej_alumnos.cpp.obj	a78fa14eab7eb919
+444	583	7046916582074073	Herencia.exe	bb50fb6651627e05
+5	1011	7049040091884634	CMakeFiles/Herencia.dir/ej_alumnos.cpp.obj	a78fa14eab7eb919
+23	1032	7049040092163204	CMakeFiles/Herencia.dir/docente.cpp.obj	8bd915163a1beecc
+15	1051	7049040092360481	CMakeFiles/Herencia.dir/alumnos.cpp.obj	7ab2c1993d8337e0
+1051	1425	7049040096043059	Herencia.exe	bb50fb6651627e05
+6	493	7049040569971205	CMakeFiles/Herencia.dir/alumnos.cpp.obj	7ab2c1993d8337e0
+494	623	7049040571173566	Herencia.exe	bb50fb6651627e05
