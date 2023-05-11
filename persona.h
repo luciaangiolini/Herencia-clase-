@@ -4,11 +4,11 @@ using namespace std;
 #include <iostream>
 
 class persona {
+public:
     string nombre;
     string apellido;
     string mail;
     int DNI;
-public:
     persona(){};
     persona(string _nombre, string _apellido, int _DNI, string _mail);
     string get_nombre();

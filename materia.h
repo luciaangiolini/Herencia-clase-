@@ -7,7 +7,6 @@ class materia {
     int nota;
     int codigo;
     string nombre_materia;
-
 public:
     materia(){};
     materia(int _nota, int _codigo, string _nombre_materia);
